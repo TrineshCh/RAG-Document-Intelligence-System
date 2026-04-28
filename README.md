@@ -1,7 +1,5 @@
 # AI PDF Chatbot & Agent Powered by LangChain and LangGraph
 
-![Chatbot UI Demo](docs/chatbot-ui-demo.png)
-
 A sophisticated AI-powered chatbot application that enables users to upload, ingest, and query PDF documents using natural language. Built with modern technologies including LangChain, LangGraph, Next.js, and TypeScript.
 
 ## Table of Contents
@@ -23,7 +21,6 @@ A sophisticated AI-powered chatbot application that enables users to upload, ing
 - [Production Build & Deployment](#production-build--deployment)
 - [Customizing the Agent](#customizing-the-agent)
 - [Troubleshooting](#troubleshooting)
-- [Next Steps](#next-steps)
 
 ## Features
 
@@ -357,17 +354,6 @@ LOG_LEVEL=DEBUG
    - Use appropriate model sizes
    - Implement response caching
    - Batch requests when possible
-
-## Next Steps
-
-### Planned Features
-
-- [ ] Multi-language support
-- [ ] Advanced document formats (Word, Excel)
-- [ ] Collaborative chat sessions
-- [ ] Advanced analytics dashboard
-- [ ] Integration with cloud storage
-- [ ] Mobile application
 
 ### Contributing
 
